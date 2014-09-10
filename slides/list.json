@@ -1,12 +1,13 @@
 [
     "index.md",
     "purpose.md",
-    "slide-server-structure.md",
     "slide-server.md",
     "gitlab.md",
     "kandan.md",
     "hubot.md",
     "workflow.md",
     "workflow-update.md",
+    "slide-server-structure.md",
+    "slide-server-structure-figure.md",
     "wrap-up.md"
 ]
